@@ -1,0 +1,13 @@
+# Dataset
+
+## Dataset 1: MobiAct Dataset (v2.0)
+- **Description:** Smartphone-based data featuring 67 subjects performing 12 types of ADLs and 4 types of falls, including continuous daily activity scenarios.
+- **Source:** Kaggle
+- **Link:** [Click here to download](https://www.kaggle.com/datasets/tithirohitkumarpatel/mobiact-dataset)
+
+---
+
+## Dataset 2: Brain Tumor Dataset
+- **Description:** Consists of 3,064 T1-weighted contrast-enhanced MRI slices from 233 patients, categorizing tumors into Meningioma, Glioma, and Pituitary types. Includes tumor border coordinates and binary masks for segmentation.
+- **Source:** Kaggle
+- **Link:** [Click here to download](https://www.kaggle.com/datasets/tithirohitkumarpatel/brain-tumor-data)
